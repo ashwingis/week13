@@ -7,7 +7,7 @@ ArcGIS Insights
 ![Insights - error](https://github.com/ashwingis/week13/assets/146376104/ed682b51-7688-4fea-bf89-57f91f35c701)
 
 3. After zooming to a specific region, if hovered a specific area, a popup box shows up and displays details about the area.
-![Insights - error](https://github.com/ashwingis/week13/assets/146376104/f6fe5bbd-f0e4-493d-99dd-021a5e72523f)
+![Insights - hover](https://github.com/ashwingis/week13/assets/146376104/873f1d58-fb43-48b8-ae25-e1422a7fe14e)
 
 4. Change the basemap according to the choice to make it look better.
 ![Insights - basemap](https://github.com/ashwingis/week13/assets/146376104/61b19fed-13b3-4c76-ae3d-1908ed3d7fe7)
